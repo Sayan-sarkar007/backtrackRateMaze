@@ -40,3 +40,6 @@ ALGORITHM
 8.	If it cannot go any path further then set the [i][j] as 0 for reaching the initial position it came from. ( main back tracking )
 9.	Then unmark and position and move forward. 
 10.	 And print the output
+
+
+************ FOR MORE DETAILS CHECK OUT THE DOCUMENTAITON FILE *******************
