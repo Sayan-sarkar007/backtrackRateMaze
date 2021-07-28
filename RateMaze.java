@@ -48,7 +48,7 @@ public class RateMaze {
 			}
 		}
 		
-		int sol[][]= new int[n][n];
+		int sol[][]= new int[n][n]; //creating the solution matrix
 		System.out.println("final sol- ");
 		for(int i= 0; i<n; i++) {
 			for(int j=0; j<n; j++) {
